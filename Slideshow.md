@@ -20,13 +20,13 @@
 
 # St. Gallen 298
 
-!(stgallen298.jpg)
+![Bifolio Image of the St. Gallen 298](stgallen298.jpg)
 
 --------
 
 # Bern 219
 
-!(bern219.jpg)
+![Bifolio Image of the Bern 219](bern219.jpg)
 
 --------
 
