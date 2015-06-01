@@ -6,14 +6,15 @@
 
 # The *Chronicle*
 
-![Preface Gen49](prefgen49.jpg)
 - First page of the preface in the Geneva 49 manuscript of the Chronicle
+
+![Preface Gen49](prefgen49.jpg)
+
 ----------
 
 # Geneva 49
 
 ![Bifolio Image of the Geneva 49](gen49.jpg)
-
 
 
 ---------
@@ -34,14 +35,12 @@
 
 ![Image of a line from Geneva 49](linegen49.jpg)
 
-
 ![XML edited text of the same line](xmlgen49.jpg)
 
 ![XML Author mode of the edited line](authormodegen49.jpg)
 --------
 
 # Columns: Geneva 49 vs. CodVad 298
-
 
 ![Geneva 49](columnsgen49.jpg)
 
@@ -51,52 +50,71 @@
 
 # Romulus's Reign
 
+- First page of the preface in the Geneva 49 manuscript of the Chronicle
 ![Romulus’ reign in the Geneva 49](romulusgen49.jpg)
--Note “Ann. XXXVII.”
+
 ![End of Romulus' Reign in the Geneva 49](romendgen49.jpg)
 
-![ Romulus' Reign in St. Gallen.](romulusstgallen298.jpg)
 - Note "Annis XXXVIII" as the last year of Romulus' reign
+![ Romulus' Reign in St. Gallen.](romulusstgallen298.jpg)
+
 ![End of Romulus' reign in St. Gallen](romendsstgallen298.jpg)
 
 --------
 
 # The Birth of Christ
+- Gen 49: Illustrated, major event dominates the page.
 ![The Nativity in Gen. 49](jesusgen49.jpg)
-- Illustrated, major event dominates the page.
+
+- St. Gallen: Text color changes to highlight the event, but otherwise it is not empasized.
 ![The Nativity in St. Gallen](jesusstgallen298.jpg)
- - Text color changes to highlight the event, but otherwise it is not empasized.
+
 --------
 
 # Fall of Kingdoms
+
+-Gen 49: "Lydorum Regnum Defecit." ends the column.
+-St. Gallen: The Column simply stops.
+
 ![Fall of the Lydians](lydiansgen49.jpg)
--Note: "Lydorum Regnum Defecit." in Gen. 49
--Note that the St. Gallen column simply stops.
+
+- Gen 49: As with the Lydians, the scribe highlights the fact that the Medes have fallen.
+- St. Gallen: Downfall of the Medes downfall is not highlighted, merely mentioned.
+
 ![Fall of the Medes in Geneva 49](medesgen49.jpg)
--As with the Lydians, the scribe highlights the fact that the kingdom has fallen.
+
 ![Fall of the Medes in St. Gallen](medesstgallen298.jpg)
--Their downfall is not highlighted, merely mentioned.
+
 --------
 
 # First Olympiad
+
+-In the Egyptian Column during which the First Olympiad occurs, the fourth year of the reign of Bocchoris repeats.
+
 ![Egyptian Column, 1st Olympiad, St. Gallen](1stolympiadstgallen298.jpg)
--In the Egyptian Column during which the First Olympiad occurs, the fourth year of the reign of Bocchoris repeats
+
 
 
 --------
 
 # *Aliter*: Referencing Different Sources?
+
+- Bern 219: Note the lack of alternate dating.
 ![First Olympiad in the Bern 219](aliter-1.jpg) ![First Olympiad in the Bern 219 Close-up](aliter-4.jpg)
- Note the lack of alternate dating.
+
+- St. Gallen: Note that the main date is CCCCVI, with CCCCV as alternate.
 ![First Olympiad in St. Gallen](aliter-2.jpg) ![First Olympiad in St. Gallen Close-up](aliter-5.jpg)
-- Note that the main date is CCCCVI, with CCCCV as alternate.
+
+-Gen 49: Note that the main date is CCCCV, with CCCCVI as alternate.
 ![First Olympiad in Geneva 49](aliter-3.jpg) ![First Olympiad in Geneva 49 Close-up](aliter-6.jpg)
--Note that the main date is CCCCV, with CCCCVI as alternate.
+
 --------
 
 # Geneva 49: Scribe and Source
-![Gen 49 Notation of Courses](sourcegen49.jpg)
+
 - The scribe writes "superfluu(m). si ita erat i(n) exemplari" when shifting the Macedonian column in the middle of the page.
+![Gen 49 Notation of Courses](sourcegen49.jpg)
+
 
 
 --------
@@ -109,22 +127,22 @@
 
 # Acknowledgments
 
--We offer our profound gratitude to the many people who have contributed to this project and without whom it could not have been done:
+- We offer our profound gratitude to the many people who have contributed to this project and without whom it could not have been done:
 
--Professor Neel Smith, Department of Classics, College of the Holy Cross
+- Professor Neel Smith, Department of Classics, College of the Holy Cross
 
--Professor Mary Ebbott, Department of Classics, College of the Holy Cross
+- Professor Mary Ebbott, Department of Classics, College of the Holy Cross
 
--Nicholas Jalbert and Charlie Schufreider
+- Nicholas Jalbert and Charlie Schufreider
 
--Past and current members of the Manuscripts, Inscriptions, and Documents Club
+- Past and current members of the Manuscripts, Inscriptions, and Documents Club
 
--Professor Daniel Klinghard, Director, Summer Research Program
+- Professor Daniel Klinghard, Director, Summer Research Program
 
--Holy Cross Summer Research Program in the Humanities, Social Sciences and Fine Arts
+- Holy Cross Summer Research Program in the Humanities, Social Sciences and Fine Arts
 
--The Andrew W. Mellon Foundation
+- The Andrew W. Mellon Foundation
 
--Contributions from Timothy W. and Deborah Coleman Diggins to the Alumni/Parent Summer Research Scholarship Fund
+- Contributions from Timothy W. and Deborah Coleman Diggins to the Alumni/Parent Summer Research Scholarship Fund
 
--The E-Codices Project
+- The E-Codices Project
