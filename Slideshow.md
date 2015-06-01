@@ -12,7 +12,9 @@
 
 # Geneva 49
 
-!(gen49.jpg)
+![Bifolio Image of the Geneva 49](gen49.jpg)
+
+
 
 ---------
 
