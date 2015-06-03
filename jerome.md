@@ -1,8 +1,9 @@
-# Tracing the Scribal Tradition with Diplomatic Editions of Jerome's *Chronicle* #
+# Tracing the Scribal Tradition of Jerome's *Chronicle* #
 
 ## Claude Hanley and Stephanie Neville
 
-----------
+***
+
 
 # The *Chronicle*
 
@@ -10,26 +11,26 @@
 
 ![Preface Gen49](prefgen49.jpg)
 
-----------
+***
 
 # Geneva 49
 
 ![Bifolio Image of the Geneva 49](gen49.jpg)
 
 
----------
+***
 
 # St. Gallen 298
 
 ![Bifolio Image of the St. Gallen 298](stgallen298.jpg)
 
---------
+***
 
 # Bern 219
 
 ![Bifolio Image of the Bern 219](bern219.jpg)
 
---------
+***
 
 # Editing the Manuscripts
 
@@ -46,7 +47,7 @@
 
 ![St. Gallen 298](columnsstgallen298.jpg)
 
---------
+***
 
 # Romulus's Reign
 
@@ -60,7 +61,7 @@
 
 ![End of Romulus' reign in St. Gallen](romendsstgallen298.jpg)
 
---------
+***
 
 # The Birth of Christ
 - Gen 49: Illustrated, major event dominates the page.
@@ -69,7 +70,7 @@
 - St. Gallen: Text color changes to highlight the event, but otherwise it is not empasized.
 ![The Nativity in St. Gallen](jesusstgallen298.jpg)
 
---------
+***
 
 # Fall of Kingdoms
 
@@ -85,7 +86,7 @@
 
 ![Fall of the Medes in St. Gallen](medesstgallen298.jpg)
 
---------
+***
 
 # First Olympiad
 
@@ -95,7 +96,7 @@
 
 
 
---------
+***
 
 # *Aliter*: Referencing Different Sources?
 
@@ -108,7 +109,7 @@
 -Gen 49: Note that the main date is CCCCV, with CCCCVI as alternate.
 ![First Olympiad in Geneva 49](aliter-3.jpg) ![First Olympiad in Geneva 49 Close-up](aliter-6.jpg)
 
---------
+***
 
 # Geneva 49: Scribe and Source
 
@@ -117,32 +118,12 @@
 
 
 
---------
+***
 
 # In Conclusion
+
 - Unique stylistic elements
 - References to other sources
 - Better sense of the historiography of the scribal tradition
---------
 
-# Acknowledgments
-
-- We offer our profound gratitude to the many people who have contributed to this project and without whom it could not have been done:
-
-- Professor Neel Smith, Department of Classics, College of the Holy Cross
-
-- Professor Mary Ebbott, Department of Classics, College of the Holy Cross
-
-- Nicholas Jalbert and Charlie Schufreider
-
-- Past and current members of the Manuscripts, Inscriptions, and Documents Club
-
-- Professor Daniel Klinghard, Director, Summer Research Program
-
-- Holy Cross Summer Research Program in the Humanities, Social Sciences and Fine Arts
-
-- The Andrew W. Mellon Foundation
-
-- Contributions from Timothy W. and Deborah Coleman Diggins to the Alumni/Parent Summer Research Scholarship Fund
-
-- The E-Codices Project
+***
