@@ -58,14 +58,14 @@ Compare:
 
 ***
 
-## Romulus's Reign
+## Romulus's Reign in Geneva 49
 
 
 ![Romulus’ reign in the Geneva 49](romulusgen49.jpg)   ![End of Romulus' Reign in the Geneva 49](romendgen49.jpg)
 
 ***
 
-## End of Romulus' reign ##
+## Romulus' reign in St. Gallen ##
 
 
 Note   `Annis XXXVIII` as the last year of Romulus' reign
@@ -88,7 +88,7 @@ St. Gallen: text color changes, but otherwise it is not highlighted.
 ## Fall of Lydian kingdom
 
 - Gen 49:  `Lydorum Regnum Defecit.` ends the column.
-- St. Gallen: The Column simply stops.
+- St. Gallen: The column simply stops.
 
 ![Fall of the Lydians](FalloftheMedes_St.GallenandGen49.png)
 
