@@ -90,7 +90,7 @@ St. Gallen: text color changes, but otherwise it is not highlighted.
 - Gen 49:  `Lydorum Regnum Defecit.` ends the column.
 - St. Gallen: The Column simply stops.
 
-![Fall of the Lydians](lydiansgen49.jpg)
+![Fall of the Lydians](FalloftheMedes_St.GallenandGen49.png)
 
 ***
 
