@@ -103,7 +103,7 @@ Gen 49: As with the Lydians, the scribe highlights the fact that the Medes have 
 
 - St. Gallen: Downfall of the Medes downfall is not highlighted, merely mentioned.
 
-![Fall of the Medes in St. Gallen](medesstgallen298.jpg)
+![Fall of the Medes in St. Gallen](FallofMedes51VCodVad.png)
 
 ***
 
