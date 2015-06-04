@@ -92,31 +92,30 @@ Last year of Romulus' reign:   `Annis XXXVIII`
 
 ## Fall of Lydian kingdom
 
-- Gen 49:  `Lydorum Regnum Defecit.` ends the column.
-- St. Gallen: The column simply stops.
-
-![Fall of the Lydians](FalloftheMedes_St.GallenandGen49.png)
+| `Lydorum Regnum Defecit`, vs. end of column |  
+|  ------	|  
+| [![Fall of the Lydians](fallOfLydians.png)](fallOfLydians.png) |
 
 ***
 
 ## Fall of Median kingdom ##
 
 
-Gen 49: As with the Lydians, the scribe highlights the fact that the Medes have fallen.
+| Geneva 49 | St. Gallen 298 |  
+|  ------	| ------	|  
+| [![Fall of the Medes in Geneva 49](medesgen49.png)](medesgen49.png) | [![Fall of the Medes in St. Gallen](FallofMedesCodVad.png)](FallofMedesCodVad.png) |
 
-![Fall of the Medes in Geneva 49](medesgen49.jpg)
 
-- St. Gallen: Downfall of the Medes downfall is not highlighted, merely mentioned.
 
-![Fall of the Medes in St. Gallen](FallofMedes51VCodVad.png)
+
 
 ***
 
 ## First Olympiad
 
-- Fourth year of the reign of Bocchoris repeated
+Fourth year of the reign of Bocchoris repeated
 
-![Egyptian Column, 1st Olympiad, St. Gallen](1stolympiadstgallen298.jpg)
+[![Egyptian Column, 1st Olympiad, St. Gallen](1stolympiadstgallen298.png)](1stolympiadstgallen298.png)
 
 
 
@@ -124,22 +123,19 @@ Gen 49: As with the Lydians, the scribe highlights the fact that the Medes have 
 
 ## *Aliter*: Referencing Different Sources?
 
-- Bern 219: Note the lack of alternate dating.
-![First Olympiad in the Bern 219](aliter-1.jpg) ![First Olympiad in the Bern 219 Close-up](aliter-4.jpg)
-
-- St. Gallen: Note that the main date is CCCCVI, with CCCCV as alternate.
-![First Olympiad in St. Gallen](aliter-2.jpg) ![First Olympiad in St. Gallen Close-up](aliter-5.jpg)
-
-- Gen 49: Note that the main date is CCCCV, with CCCCVI as alternate.
-![First Olympiad in Geneva 49](aliter-3.jpg) ![First Olympiad in Geneva 49 Close-up](aliter-6.jpg)
+| Manuscript | First Olympiad | Interval (detail) |  
+|  ------	| ------	| ------	|  
+| Bern 219 |   ![First Olympiad in the Bern 219](aliter-1.jpg) |  ![First Olympiad in the Bern 219 Close-up](aliter-4.jpg) |  
+| St. Gallen 298 | [![First Olympiad in St. Gallen](aliter-2.png)](aliter-2.png) | [![First Olympiad in St. Gallen Close-up](aliter-5.png)](aliter-5.png) |  
+| Geneva 49 | [![First Olympiad in Geneva 49](aliter-3.png)](aliter-3.png) | [![First Olympiad in Geneva 49 Close-up](aliter-6.png)](aliter-6.png) |
 
 ***
 
 ## Geneva 49: Scribe and Source
 
-- The scribe writes `superfluu(m). si ita erat i(n) exemplari` when shifting the Macedonian column in the middle of the page.
+    superfluu(m). si ita erat i(n) exemplari
 
-![Gen 49 Notation of Courses](sourcegen49.jpg)
+[![Gen 49 Notation of Courses](sourcegen49.png)](sourcegen49.png)
 
 
 
