@@ -7,28 +7,31 @@
 
 ## The *Chronicle*
 
-Preface in the Geneva 49 manuscript of the *Chronicle*
 
-![Preface Gen49](prefgen49.jpg)
+[![Preface Gen49](prefgen49.png)](prefgen49.png)
+
+
+Preface in the Geneva 49 manuscript of the *Chronicle*
 
 ***
 
 ## Geneva 49
 
-![Bifolio Image of the Geneva 49](gen49.jpg)
+[![Geneva 49, 69v-70r](gen49.png)](gen49.png)
 
 
 ***
 
 ## St. Gallen 298
 
-![Bifolio Image of the St. Gallen 298](stgallen298.jpg)
+[![St. Gallen 298 45v-46r](stgallen298.jpg)](stgallen298.jpg)
 
 ***
 
 ## Bern 219
 
-![Bifolio Image of the Bern 219](bern219.jpg)
+
+[![Bern 219, 38v-39r](bern219.png)](bern219.png)
 
 ***
 
@@ -42,9 +45,9 @@ Compare:
 
 *** 
 
-1. ![Image of a line from Geneva 49](linegen49.jpg)
-2. ![XML edited text of the same line](xmlgen49.jpg)
-3. ![XML Author mode of the edited line](authormodegen49.jpg)
+1. [![Image of a line from Geneva 49](linegen49.jpg)](linegen49.jpg)
+2. [![XML edited text of the same line](xmlgen49.jpg)](xmlgen49.jpg)
+3. [![XML Author mode of the edited line](authormodegen49.png)](authormodegen49.png)
 
 ***
 
@@ -52,36 +55,38 @@ Compare:
 
 ## Columns: Geneva 49 vs. CodVad 298
 
-![Geneva 49](columnsgen49.jpg)
+[![Geneva 49](columnsgen49.jpg)](columnsgen49.jpg)
 
-![St. Gallen 298](columnsstgallen298.jpg)
+[![St. Gallen 298](columnsstgallen298.png)](columnsstgallen298.png)
 
 ***
 
-## Romulus's Reign in Geneva 49
+## Reign of Romulus in Geneva 49
 
 
-![Romulus’ reign in the Geneva 49](romulusgen49.jpg)   ![End of Romulus' Reign in the Geneva 49](romendgen49.jpg)
+| Summary | End of Romulus' reign |  
+|  ------	| ------	|  
+| [![Romulus’ reign in the Geneva 49](romulusgen49.png)](romulusgen49.png)  | [![End of Romulus' Reign in the Geneva 49](romendgen49.png)](romendgen49.png) |
 
 ***
 
 ## Romulus' reign in St. Gallen ##
 
 
-Note   `Annis XXXVIII` as the last year of Romulus' reign
+Last year of Romulus' reign:   `Annis XXXVIII` 
 
-![ Romulus' Reign in St. Gallen.](romulusstgallen298.jpg)  ![End of Romulus' reign in St. Gallen](romendstgallen298.jpg)
+| Summary | End of Romulus' reign |  
+|  ------	| ------	|  
+| [![ Romulus' Reign in St. Gallen.](romulusstgallen298.png)](romulusstgallen298.png)  | [![End of Romulus' reign in St. Gallen](romendstgallen298.png)](romendstgallen298.png) |
 
 ***
 
 ## The Birth of Christ
-Gen 49: illustrated, major event dominates the page.
 
-![The Nativity in Gen. 49](jesusgen49.jpg)
 
-St. Gallen: text color changes, but otherwise it is not highlighted.
-
-![The Nativity in St. Gallen](jesusstgallen298.jpg)
+| Geneva 49 | St. Gallen 298 |  
+|  ------	| ------	|  
+|  [![The Nativity in Gen. 49](jesusgen49.png)](jesusgen49.png) | [![The Nativity in St. Gallen](jesusstgallen298.png)](jesusstgallen298.png) |
 
 ***
 
